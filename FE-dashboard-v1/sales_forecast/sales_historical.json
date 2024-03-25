@@ -1,0 +1,254 @@
+[
+  {
+    "Month": "1/1/2021",
+    "Super_Single": 607,
+    "Single": 153,
+    "Queen": 404,
+    "King": 403
+  },
+  {
+    "Month": "1/2/2021",
+    "Super_Single": 189,
+    "Single": 74,
+    "Queen": 129,
+    "King": 154
+  },
+  {
+    "Month": "1/3/2021",
+    "Super_Single": 252,
+    "Single": 92,
+    "Queen": 181,
+    "King": 186
+  },
+  {
+    "Month": "1/4/2021",
+    "Super_Single": 325,
+    "Single": 116,
+    "Queen": 259,
+    "King": 217
+  },
+  {
+    "Month": "1/5/2021",
+    "Super_Single": 395,
+    "Single": 134,
+    "Queen": 313,
+    "King": 246
+  },
+  {
+    "Month": "1/6/2021",
+    "Super_Single": 588,
+    "Single": 155,
+    "Queen": 458,
+    "King": 273
+  },
+  {
+    "Month": "1/7/2021",
+    "Super_Single": 355,
+    "Single": 176,
+    "Queen": 326,
+    "King": 305
+  },
+  {
+    "Month": "1/8/2021",
+    "Super_Single": 425,
+    "Single": 196,
+    "Queen": 358,
+    "King": 336
+  },
+  {
+    "Month": "1/9/2021",
+    "Super_Single": 453,
+    "Single": 216,
+    "Queen": 491,
+    "King": 364
+  },
+  {
+    "Month": "1/10/2021",
+    "Super_Single": 558,
+    "Single": 233,
+    "Queen": 528,
+    "King": 394
+  },
+  {
+    "Month": "1/11/2021",
+    "Super_Single": 706,
+    "Single": 253,
+    "Queen": 607,
+    "King": 424
+  },
+  {
+    "Month": "1/12/2021",
+    "Super_Single": 853,
+    "Single": 273,
+    "Queen": 584,
+    "King": 393
+  },
+  {
+    "Month": "1/1/2022",
+    "Super_Single": 759,
+    "Single": 124,
+    "Queen": 260,
+    "King": 241
+  },
+  {
+    "Month": "1/2/2022",
+    "Super_Single": 255,
+    "Single": 76,
+    "Queen": 352,
+    "King": 129
+  },
+  {
+    "Month": "1/3/2022",
+    "Super_Single": 354,
+    "Single": 74,
+    "Queen": 452,
+    "King": 134
+  },
+  {
+    "Month": "1/4/2022",
+    "Super_Single": 431,
+    "Single": 104,
+    "Queen": 559,
+    "King": 142
+  },
+  {
+    "Month": "1/5/2022",
+    "Super_Single": 483,
+    "Single": 104,
+    "Queen": 659,
+    "King": 159
+  },
+  {
+    "Month": "1/6/2022",
+    "Super_Single": 651,
+    "Single": 134,
+    "Queen": 808,
+    "King": 261
+  },
+  {
+    "Month": "1/7/2022",
+    "Super_Single": 501,
+    "Single": 171,
+    "Queen": 854,
+    "King": 239
+  },
+  {
+    "Month": "1/8/2022",
+    "Super_Single": 545,
+    "Single": 191,
+    "Queen": 907,
+    "King": 187
+  },
+  {
+    "Month": "1/9/2022",
+    "Super_Single": 705,
+    "Single": 208,
+    "Queen": 959,
+    "King": 197
+  },
+  {
+    "Month": "1/10/2022",
+    "Super_Single": 807,
+    "Single": 267,
+    "Queen": 1009,
+    "King": 289
+  },
+  {
+    "Month": "1/11/2022",
+    "Super_Single": 907,
+    "Single": 284,
+    "Queen": 1055,
+    "King": 328
+  },
+  {
+    "Month": "1/12/2022",
+    "Super_Single": 1003,
+    "Single": 295,
+    "Queen": 1104,
+    "King": 372
+  },
+  {
+    "Month": "1/1/2023",
+    "Super_Single": 657,
+    "Single": 187,
+    "Queen": 859,
+    "King": 381
+  },
+  {
+    "Month": "1/2/2023",
+    "Super_Single": 285,
+    "Single": 96,
+    "Queen": 409,
+    "King": 129
+  },
+  {
+    "Month": "1/3/2023",
+    "Super_Single": 407,
+    "Single": 115,
+    "Queen": 555,
+    "King": 108
+  },
+  {
+    "Month": "1/4/2023",
+    "Super_Single": 487,
+    "Single": 127,
+    "Queen": 655,
+    "King": 129
+  },
+  {
+    "Month": "1/5/2023",
+    "Super_Single": 556,
+    "Single": 162,
+    "Queen": 753,
+    "King": 195
+  },
+  {
+    "Month": "1/6/2023",
+    "Super_Single": 788,
+    "Single": 196,
+    "Queen": 802,
+    "King": 298
+  },
+  {
+    "Month": "1/7/2023",
+    "Super_Single": 505,
+    "Single": 185,
+    "Queen": 647,
+    "King": 223
+  },
+  {
+    "Month": "1/8/2023",
+    "Super_Single": 560,
+    "Single": 222,
+    "Queen": 766,
+    "King": 258
+  },
+  {
+    "Month": "1/9/2023",
+    "Super_Single": 1006,
+    "Single": 237,
+    "Queen": 779,
+    "King": 298
+  },
+  {
+    "Month": "1/10/2023",
+    "Super_Single": 1057,
+    "Single": 282,
+    "Queen": 1003,
+    "King": 319
+  },
+  {
+    "Month": "1/11/2023",
+    "Super_Single": 1106,
+    "Single": 291,
+    "Queen": 1183,
+    "King": 354
+  },
+  {
+    "Month": "1/12/2023",
+    "Super_Single": 1154,
+    "Single": 333,
+    "Queen": 1256,
+    "King": 394
+  }
+]

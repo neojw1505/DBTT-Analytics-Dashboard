@@ -1,0 +1,15 @@
+FROM node:lts-alpine
+
+# Set the working directory to the 'dist' folder
+WORKDIR /app
+
+# Copy the contents of the 'dist' folder into the 'app' folder in the Docker image
+COPY . .
+
+RUN npm install 
+
+# Expose port 8080
+EXPOSE 8080
+
+# Command to start the HTTP server serving the built files from the 'dist' folder
+CMD ["npm", "run", "serve"]

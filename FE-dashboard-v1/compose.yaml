@@ -1,0 +1,56 @@
+version: "3.8"
+
+services:
+
+  ###################################
+  # Age Distribution Data
+  ###################################
+  age_distribution:
+      build:
+        context: age_distribution
+        dockerfile: dockerfile
+      image: neojw1505/age_distribution:v1
+      restart: always
+      ports:
+        - "5001:5001"
+  
+  ###################################
+  # Sales Forecast Data
+  ###################################
+  sales_prediction:
+      build:
+        context: sales_forecast
+        dockerfile: dockerfile
+      image: neojw1505/sales_prediction:v1
+      restart: always
+      ports:
+        - "8081:8081"
+
+  ###################################
+  # Mattress Recommender Data
+  ###################################
+  mattress_recommender:
+      build:
+        context: mattress_recommender
+        dockerfile: dockerfile
+      image: neojw1505/mattress_recommender:v1
+      restart: always
+      ports:
+        - "5002:5002"
+
+  ###################################
+  # Dashboard UI
+  ###################################
+  dashboard_ui:
+      build:
+        context: Dashboard
+        dockerfile: dockerfile
+      image: neojw1505/dbtt-prototype-ui:v1
+      restart: always
+      depends_on:
+        - age_distribution
+        - sales_prediction
+        - mattress_recommender
+      ports:
+        - "8080:8080"
+  
